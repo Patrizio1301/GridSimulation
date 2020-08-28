@@ -1,0 +1,13 @@
+{
+  "A1":  {"switch":  true, "load":  "A1_PV"},
+  "A1_PV":  {"switch":  false},
+  "A6":{"switch":  false},
+  "A10":  {"switch":  true, "load":  "A10_PV"},
+  "A10_PV":  {"switch":  false},
+  "A10_PV_Volt":  {"switch":  false},
+  "A10_PV_Volt_a":  {"switch": false},
+  "E7":  {"switch":  true, "load":  "E7_PV"},
+  "E7_PV":  {"switch":  false},
+  "E7_PV_Volt":  {"switch":  false},
+  "E7_PV_Volt_a":  {"switch":  false}
+}
